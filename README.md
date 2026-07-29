@@ -23,4 +23,4 @@ Adição de Texto aqui para mais um commit na main.
 
 ### Feature 1
 
-Feature 1.
+Feature 1. Commit 2 na Feature 1.
